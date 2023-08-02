@@ -1,1 +1,6 @@
 # Automatic-Speech-Recognition-using-Deep-Neural-Network
+TIMIT dataset is used for this model. Sample TIMIT dataset is downloaded from Kaggle.The TIMIT corpus is a widely used dataset for acoustic-phonetic research and speech recognition. It includes recordings of 16 speakers from eight dialect regions, each having one male and one female speaker. There are 160 sentences in all, with 10 sentences per speaker. Some sentences are shared by many speakers, with "sa1" and "sa2" being spoken by everyone. The corpus contains 160 sentence recordings, with ten recordings for each speaker. The audio files are in wav format, with a single channel, sampling at 16 kHz, sampling at 16 bits, and PCM encoding. The corpus is often used for training and evaluating automatic speech recognition systems, as well as for research on speech processing and acoustic-phonetic analysis.
+The main objectives are summarized below:
+[1] To implement phoneme classification using hybrid model of Convolutional Neural Network(CNN) and Long Short-Term Memory(LSTM) and Connectionist Temporal 
+    Classification(CTC) network.
+[2] To implement an efficient decoder to detect the speech and convert it into corresponding text.
